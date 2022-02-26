@@ -1,4 +1,4 @@
-# 2022-2-26 ssr plus, passwall
+# 2022-2-25 ssr plus, passwall
 # Automatically generated file; DO NOT EDIT.
 # OpenWrt Configuration
 #
